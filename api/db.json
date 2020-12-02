@@ -14,6 +14,24 @@
       "title": "test",
       "description": "test",
       "id": 3
+    },
+    {
+      "title": "a new stream with user id",
+      "description": "should have user id in this stream object",
+      "userId": "108801403594781455386",
+      "id": 4
+    },
+    {
+      "title": "my second test",
+      "description": "test description with user id",
+      "userId": "108801403594781455386",
+      "id": 5
+    },
+    {
+      "title": "test history ",
+      "description": "history test ",
+      "userId": "108801403594781455386",
+      "id": 6
     }
   ]
 }

@@ -1,21 +1,6 @@
 {
   "streams": [
     {
-      "title": "test",
-      "description": "test",
-      "id": 1
-    },
-    {
-      "title": "test",
-      "description": "test",
-      "id": 2
-    },
-    {
-      "title": "test",
-      "description": "test",
-      "id": 3
-    },
-    {
       "title": "a new stream with user id",
       "description": "should have user id in this stream object",
       "userId": "108801403594781455386",
@@ -34,18 +19,20 @@
       "id": 6
     },
     {
-      "userId": "108801403594781455386",
-      "id": 7
-    },
-    {
-      "userId": "108801403594781455386",
-      "id": 8
-    },
-    {
       "title": "refactored form test",
-      "description": "test test",
-      "userId": "108801403594781455386",
+      "description": "test test test",
       "id": 9
+    },
+    {
+      "title": "test 3",
+      "description": "test 3 test",
+      "id": 10
+    },
+    {
+      "title": "test 4tes ",
+      "description": "test test test ",
+      "userId": "108801403594781455386",
+      "id": 11
     }
   ]
 }
